@@ -1,8 +1,9 @@
+import Greeting from './Greeting'
 
 export default function Main() {
   return (
     <main>
-      main
+      <Greeting></Greeting>
     </main>
   )
 }
